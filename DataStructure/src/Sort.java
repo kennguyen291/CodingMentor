@@ -36,4 +36,19 @@ public class Sort {
 
         // TIME COMPLEXITY O(n)
     }
+
+//    public static int[] sort(int[] arr){
+//        int index = 0;
+////        int i = 0;
+////        int j = nums.length - 1;
+//
+//        for (int i = 0; i < arr.length; i++){
+//
+//            if (arr[i] == 0 || arr[i] == 2){
+//
+//            }
+//        }
+
+
+//    }
 }
