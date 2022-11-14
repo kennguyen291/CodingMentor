@@ -7,6 +7,9 @@ public class CarMain {
 		Brand brandMec = new Brand(1, "Mecedes");
 		Brand brandToy = new Brand(2, "Toyota");
 
+		ArrayList<Brand> brands02 = new ArrayList<>();
+		brands02.set(0, new Brand(3,"lexus"));
+
 		CarModel car1 = new CarModel(1, "mec G63 2022B", "200", "black", "2m", "1000", 52000, 3); // refBrandID = 1
 		CarModel car2 = new CarModel(2, "mec G63 2023W", "200", "white", "2m", "1000", 50000, 5); // refBrandID = 1
 		CarModel car3 = new CarModel(3, "mec G63 2023B", "200", "blue", "2m", "1000", 50000, 5); // refBrandID = 1
